@@ -5,6 +5,8 @@ VisualStudioVersion = 17.1.32407.343
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoftUniCSharp", "SoftUniCSharp\SoftUniCSharp.csproj", "{00E60E88-690B-488A-9EA8-F0A42516C351}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkingDays", "WorkingDays\WorkingDays.csproj", "{7A4C36D8-E487-457A-874A-1D9AAED43EE7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{00E60E88-690B-488A-9EA8-F0A42516C351}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{00E60E88-690B-488A-9EA8-F0A42516C351}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{00E60E88-690B-488A-9EA8-F0A42516C351}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A4C36D8-E487-457A-874A-1D9AAED43EE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A4C36D8-E487-457A-874A-1D9AAED43EE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A4C36D8-E487-457A-874A-1D9AAED43EE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A4C36D8-E487-457A-874A-1D9AAED43EE7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
