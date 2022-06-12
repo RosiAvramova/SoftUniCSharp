@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkingDays", "WorkingDays\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InvalidNumber", "InvalidNumber\InvalidNumber.csproj", "{BF1EAB5D-A729-44A6-8F0D-E9C84E60AF07}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FruitShop", "FruitShop\FruitShop.csproj", "{2063F82E-35C2-478B-BA81-443812C40BA9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{BF1EAB5D-A729-44A6-8F0D-E9C84E60AF07}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BF1EAB5D-A729-44A6-8F0D-E9C84E60AF07}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BF1EAB5D-A729-44A6-8F0D-E9C84E60AF07}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2063F82E-35C2-478B-BA81-443812C40BA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2063F82E-35C2-478B-BA81-443812C40BA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2063F82E-35C2-478B-BA81-443812C40BA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2063F82E-35C2-478B-BA81-443812C40BA9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
