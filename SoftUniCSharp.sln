@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OldBooks", "OldBooks\OldBoo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExamPreparations", "ExamPreparations\ExamPreparations.csproj", "{508259D8-88B1-4C60-85FD-E09607651B37}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Walking", "Walking\Walking.csproj", "{D205DC4E-50FD-4C11-9E21-3E34B22EE68E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{508259D8-88B1-4C60-85FD-E09607651B37}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{508259D8-88B1-4C60-85FD-E09607651B37}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{508259D8-88B1-4C60-85FD-E09607651B37}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D205DC4E-50FD-4C11-9E21-3E34B22EE68E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D205DC4E-50FD-4C11-9E21-3E34B22EE68E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D205DC4E-50FD-4C11-9E21-3E34B22EE68E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D205DC4E-50FD-4C11-9E21-3E34B22EE68E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
